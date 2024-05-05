@@ -347,7 +347,6 @@
             textBox2.TabIndex = 142;
             textBox2.TabStop = false;
             textBox2.TextAlign = HorizontalAlignment.Center;
-            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // textBox3
             // 
@@ -359,7 +358,6 @@
             textBox3.TabIndex = 141;
             textBox3.TabStop = false;
             textBox3.TextAlign = HorizontalAlignment.Center;
-            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // textBox4
             // 
@@ -371,7 +369,6 @@
             textBox4.TabIndex = 140;
             textBox4.TabStop = false;
             textBox4.TextAlign = HorizontalAlignment.Center;
-            textBox4.TextChanged += textBox4_TextChanged;
             // 
             // textBox23
             // 
@@ -1840,7 +1837,7 @@
             quarzFreq_comboBox.Name = "quarzFreq_comboBox";
             quarzFreq_comboBox.Size = new Size(155, 23);
             quarzFreq_comboBox.TabIndex = 31;
-            quarzFreq_comboBox.SelectedIndexChanged += quarzFreq_comboBox_SelectedIndexChanged;
+            quarzFreq_comboBox.SelectedIndexChanged += QuarzFreq_comboBox_SelectedIndexChanged;
             // 
             // BP_skip_CB
             // 

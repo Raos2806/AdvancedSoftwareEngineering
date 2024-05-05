@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fstei\\.nuget\\packages\\": {}
+    "C:\\Users\\huter\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fstei\\Downloads\\PIC-Simulator-Huter_Steinhauser\\PIC-Simulator-Huter_Steinhauser\\PIC_Controller\\PIC_Controller\\PIC_Controller.csproj",
+      "projectUniqueName": "C:\\Anderes\\VisualeStudioKodierung\\AdvancedSoftwareEngineering-main\\PIC_Controller\\PIC_Controller.csproj",
       "projectName": "PIC_Controller",
-      "projectPath": "C:\\Users\\fstei\\Downloads\\PIC-Simulator-Huter_Steinhauser\\PIC-Simulator-Huter_Steinhauser\\PIC_Controller\\PIC_Controller\\PIC_Controller.csproj",
-      "packagesPath": "C:\\Users\\fstei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fstei\\Downloads\\PIC-Simulator-Huter_Steinhauser\\PIC-Simulator-Huter_Steinhauser\\PIC_Controller\\PIC_Controller\\obj\\",
+      "projectPath": "C:\\Anderes\\VisualeStudioKodierung\\AdvancedSoftwareEngineering-main\\PIC_Controller\\PIC_Controller.csproj",
+      "packagesPath": "C:\\Users\\huter\\.nuget\\packages\\",
+      "outputPath": "C:\\Anderes\\VisualeStudioKodierung\\AdvancedSoftwareEngineering-main\\PIC_Controller\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\fstei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\huter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,6 +66,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -64,7 +92,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

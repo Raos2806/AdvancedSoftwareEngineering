@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xUAKBswTD5Eieuf2sHyxUZgy8v1y8+/Qs0tyI1wDKZENbPA2nVzwODwnzYgnDD14k9VhQ1U05gQD0fUDmJicSA==",
+  "dgSpecHash": "GLXhvb4oHODwa4s8CjlKMmrB62yD3CODoYblVl/IpTeUX04Sv5Ei2Pl+5NJvUaJZpFmtDPZ/6nFTuUIv8YXhFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fstei\\Downloads\\PIC-Simulator-Huter_Steinhauser\\PIC-Simulator-Huter_Steinhauser\\PIC_Controller\\PIC_Controller\\PIC_Controller.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Anderes\\VisualeStudioKodierung\\AdvancedSoftwareEngineering-main\\PIC_Controller\\PIC_Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\huter\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\huter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\huter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
