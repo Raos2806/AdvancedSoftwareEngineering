@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PIC_Controller/1.0.0": {
+        "runtime": {
+          "PIC_Controller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PIC_Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

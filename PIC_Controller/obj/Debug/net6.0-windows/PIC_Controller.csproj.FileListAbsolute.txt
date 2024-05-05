@@ -1,0 +1,135 @@
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Anderes\Dingens_Kirchens\Visuelle Studio Kodierung\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+D:\Anderes\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Users\Besitzer\Downloads\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Users\Besitzer\Documents\Uni\PIC (1)\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Dingens Kirchens\Schule\PIC\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Users\Besitzer\Downloads\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Users\Besitzer\Downloads\PIC_Controller (1)\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.exe
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.deps.json
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.runtimeconfig.json
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\bin\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.AssemblyReference.cache
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.Form1.resources
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.GenerateResource.cache
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfoInputs.cache
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.AssemblyInfo.cs
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.csproj.CoreCompileInputs.cache
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.dll
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\refint\PIC_Controller.dll
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.pdb
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\PIC_Controller.genruntimeconfig.cache
+C:\Users\fstei\Downloads\PIC-Simulator-Huter_Steinhauser\PIC-Simulator-Huter_Steinhauser\PIC_Controller\PIC_Controller\obj\Debug\net6.0-windows\ref\PIC_Controller.dll
