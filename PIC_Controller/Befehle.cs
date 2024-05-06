@@ -73,14 +73,13 @@ namespace PIC_Controller
                 return instance;
             }
         }
-
-        // Privater Konstruktor verhindert Instanziierung von außerhalb
+        
         private Befehle() { }
         public static void Initialize(Variablen var, Itimer timer, IstackPush stackPush, IstackPop stackPop, Iinterrupt interrupt, Iflag flag)
         {
             if (instance.initialized)
             {
-                throw new InvalidOperationException("CommandManager wurde bereits initialisiert.");
+                throw new InvalidOperationException("Befehle wurde bereits initialisiert.");
             }
 
             instance.var = var;
