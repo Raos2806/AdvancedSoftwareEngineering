@@ -1,3 +1,5 @@
+using System.Security.Cryptography.Xml;
+
 namespace PIC_Controller
 {
     internal static class Program
@@ -15,7 +17,10 @@ namespace PIC_Controller
             Iinterrupt interrupt = new Interrupt(var, stackPush, timer);
             Iflag flag = new Flag();
             IfileHandler file = new FileHandler(var);
-            Ibefehle befehle = new Befehle(var, timer, stackPush, stackPop, interrupt, flag);
+
+            Befehle.Initialize(var, timer, stackPush, stackPop, interrupt, flag);
+            Ibefehle befehle = Befehle.Instance;
+
             IuIAccess uiAccess = new UIAccess(var);
             Ipin pin = new Pin(var, timer);
 

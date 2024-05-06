@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.Xml;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace PIC_Controller
@@ -54,14 +56,41 @@ namespace PIC_Controller
         Iinterrupt interrupt;
         Iflag flag;
 
-        public Befehle(Variablen var, Itimer timer, IstackPush stackPush, IstackPop stackPop, Iinterrupt interrupt, Iflag flag)
+        private bool initialized = false;
+
+        // Privates Feld zur Speicherung einziger Instanz
+        private static readonly Befehle instance = new Befehle();
+
+        // Öffentlich zum Zugriff auf Singleton-Instanz
+        public static Befehle Instance
         {
-            this.var = var;
-            this.timer = timer;
-            this.stackPush = stackPush;
-            this.stackPop = stackPop;
-            this.interrupt = interrupt;
-            this.flag = flag;
+            get
+            {
+                if (!instance.initialized)
+                {
+                    throw new InvalidOperationException("Befehle wurde nicht initialisiert.");
+                }
+                return instance;
+            }
+        }
+
+        // Privater Konstruktor verhindert Instanziierung von außerhalb
+        private Befehle() { }
+        public static void Initialize(Variablen var, Itimer timer, IstackPush stackPush, IstackPop stackPop, Iinterrupt interrupt, Iflag flag)
+        {
+            if (instance.initialized)
+            {
+                throw new InvalidOperationException("CommandManager wurde bereits initialisiert.");
+            }
+
+            instance.var = var;
+            instance.timer = timer;
+            instance.stackPush = stackPush;
+            instance.stackPop = stackPop;
+            instance.interrupt = interrupt;
+            instance.flag = flag;
+
+            instance.initialized = true;
         }
 
         public void BefehlsSwitch(ListView listview, int hexBefehl)
