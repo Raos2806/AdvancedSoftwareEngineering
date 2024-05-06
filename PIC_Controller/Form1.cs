@@ -12,18 +12,18 @@ namespace PIC_Controller
     public partial class Form1 : Form
     {
         Variablen var;
-        IcommandManager cm;
+        Ibefehle cm;
         IfileHandler file;
-        Iclicker clicker;
+        IuIAccess uiAccess;
         Ipin pin;
         Iflag flag;
 
-        public Form1(Variablen var, IcommandManager cm, IfileHandler file, Iclicker clicker, Ipin pin, Iflag flag)
+        public Form1(Variablen var, Ibefehle cm, IfileHandler file, IuIAccess uiAccess, Ipin pin, Iflag flag)
         {
             this.cm = cm;
             this.var = var;
             this.file = file;
-            this.clicker = clicker;
+            this.uiAccess = uiAccess;
             this.pin = pin;
             this.flag = flag;
             
@@ -868,7 +868,7 @@ namespace PIC_Controller
 
         private void QuarzFreq_comboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            clicker.UpdateQuarzFrequenz(quarzFreq_comboBox.SelectedIndex);
+            uiAccess.UpdateQuarzFrequenz(quarzFreq_comboBox.SelectedIndex);
         }
     }
 

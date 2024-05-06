@@ -15,14 +15,12 @@ namespace PIC_Controller
             Iinterrupt interrupt = new Interrupt(var, stackPush, timer);
             Iflag flag = new Flag();
             IfileHandler file = new FileHandler(var);
-            IcommandManager command = new CommandManager(var, timer, stackPush, stackPop, flag);
-            Iclicker clicker = new Clicker(var);
+            Ibefehle befehle = new Befehle(var, timer, stackPush, stackPop, interrupt, flag);
+            IuIAccess uiAccess = new UIAccess(var);
             Ipin pin = new Pin(var, timer);
-            
-
 
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1(var, command, file, clicker, pin, flag));
+            Application.Run(new Form1(var, befehle, file, uiAccess, pin, flag));
         }
     }
 }
